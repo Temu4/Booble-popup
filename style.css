@@ -34,7 +34,7 @@ body {
   text-decoration: none;
 }
 
-.link__icon {
+.link__content {
   opacity: 0.8;
 }
 
@@ -68,12 +68,12 @@ You should use tabindex="0" to the link-element and tabindex="-1" to the inner c
   position: absolute;
 }
 
-.link:hover {
+.link__label:hover {
   text-decoration: underline;
 }
 
 /* Opacity of the icons */
-.link:hover > .link__icon {
+.link__label--apps:hover > .link__content {
   opacity: 1;
 }
 
