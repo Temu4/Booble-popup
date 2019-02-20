@@ -194,6 +194,7 @@ You should use tabindex="0" to the link-element and tabindex="-1" to the inner c
 }
 .even-more__link {
   color: black;
+  padding: 15px;
 }
 
 .even-more__link:link {
