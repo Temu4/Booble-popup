@@ -112,7 +112,7 @@ body {
   border-left: 10px solid transparent;
   border-right: 10px solid transparent;
   border-bottom: 10px solid rgba(211, 211, 211, 0.6);
-  margin-left: 166px;
+  margin-left: 202px;
 }
 
 .apps-box__list {
@@ -122,7 +122,7 @@ body {
   align-items: flex-end;
   width: 270px;
   height: 450px;
-  padding-top: 20px;
+  padding: 20px;
   background-color: white;
   overflow-y: auto;
   border: 1px solid rgba(211, 211, 211, 0.6);
